@@ -1,9 +1,14 @@
-# api documentation for  [node-neo4j (v2.0.3)](https://github.com/philippkueng/node-neo4j)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-neo4j.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-neo4j) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-neo4j.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-neo4j)
+# npmdoc-node-neo4j
+
+#### api documentation for  [node-neo4j (v2.0.3)](https://github.com/philippkueng/node-neo4j)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-neo4j.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-neo4j) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-neo4j.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-neo4j)
+
 #### Neo4j REST API wrapper for Node.js
 
-[![NPM](https://nodei.co/npm/node-neo4j.png?downloads=true)](https://www.npmjs.com/package/node-neo4j)
+[![NPM](https://nodei.co/npm/node-neo4j.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-neo4j)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-node-neo4j/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-node-neo4j_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-node-neo4j/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-node-neo4j/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-node-neo4j/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-node-neo4j/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-node-neo4j/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-node-neo4j/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Philipp Küng",
-        "email": "git@philippkueng.ch",
         "url": "http://philippkueng.ch"
     },
     "bugs": {
@@ -26,19 +30,16 @@
     },
     "contributors": [
         {
-            "name": "Dan Williams",
-            "email": "me@deedubs.com"
+            "name": "Dan Williams"
         },
         {
-            "name": "Brian Gates",
-            "email": "brian.g.gates@gmail.com"
+            "name": "Brian Gates"
         },
         {
             "name": "Zaxnyd"
         },
         {
-            "name": "Kristof Van Miegem",
-            "email": "kristofvanmiegem@msn.com"
+            "name": "Kristof Van Miegem"
         },
         {
             "name": "Oskar Hane"
@@ -47,31 +48,25 @@
             "name": "lazaruslarue"
         },
         {
-            "name": "Wes Freeman",
-            "email": "wes@skeweredrook.com"
+            "name": "Wes Freeman"
         },
         {
-            "name": "DrBoolean",
-            "email": "brian@looprecur.com"
+            "name": "DrBoolean"
         },
         {
-            "name": "Matt Basta",
-            "email": "me@mattbasta.com"
+            "name": "Matt Basta"
         },
         {
-            "name": "Nuno Barreto",
-            "email": "nbarreto@gmail.com"
+            "name": "Nuno Barreto"
         },
         {
-            "name": "Andrew Bibby",
-            "email": "bibby@bbby.org"
+            "name": "Andrew Bibby"
         },
         {
             "name": "pontjho"
         },
         {
-            "name": "Damir Vandic",
-            "email": "d.vandic@ontostream.com"
+            "name": "Damir Vandic"
         }
     ],
     "dependencies": {
@@ -105,13 +100,11 @@
     "main": "main.js",
     "maintainers": [
         {
-            "name": "philippkueng",
-            "email": "git@philippkueng.ch"
+            "name": "philippkueng"
         }
     ],
     "name": "node-neo4j",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/philippkueng/node-neo4j.git"
@@ -135,19 +128,10 @@
             },
             "pkgid": "node-neo4j@2.0.3"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module node-neo4j](#apidoc.module.node-neo4j)
-
-
-
-# <a name="apidoc.module.node-neo4j"></a>[module node-neo4j](#apidoc.module.node-neo4j)
 
 
 
